@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 
 npm i sass axios react-redux redux redux-devtools-extension redux-logger redux-thunk
+# template-react-rails-redux-posts
